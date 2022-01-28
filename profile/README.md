@@ -1,4 +1,4 @@
-# DNV-Cloud-Infra
+# DNV Cloud Infrastructure
 This is the main Github Enterprise project for the Cloud Architecture team which is part of the GSS IT Cloud Infrastucture department in DNV.  
 ## Granting Access to this Project
 
