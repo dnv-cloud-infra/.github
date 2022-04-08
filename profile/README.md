@@ -2,7 +2,7 @@
 This is the main Github Enterprise project for the Cloud Architecture team which is part of the GSS IT Cloud Infrastucture department in DNV.  
 ## Granting Access to this Project
 
-If any colleagues require access to this project then a Github Enterprise license is required.  If the user already has a copy of <https://store.dnv.com/product/guardia/application/193> or <https://store.dnv.com/product/guardia/application/193> then you can proceed to the step below as Github Enterprise has a license included in both products.  Otherwise contact Thomas Schafer with the name of the user that require a Github Enterprise license and they can be purchased from Crayon for 138,49 NOK per month (around $16) when the license has been purchased then you can proceed to provision the user following the next step.
+If any colleagues require access to this project then a Github Enterprise license is required.  If the user already has a copy of <https://store.dnv.com/product/guardia/application/193> or <https://store.dnv.com/product/guardia/application/195> then you can proceed to the step below as Github Enterprise has a license included in both products.  Otherwise contact Thomas Schafer with the name of the user that require a Github Enterprise license and they can be purchased from Crayon for 138,49 NOK per month (around $16) when the license has been purchased then you can proceed to provision the user following the next step.
 
 A personal Github account is also required before being able to access the project,  if the user doesn't have a personal github account then ask them to create one before proceeding.
 
