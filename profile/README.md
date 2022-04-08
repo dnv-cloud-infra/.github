@@ -64,6 +64,10 @@ Within the repository copy the HTTPS URL
 
 In order to work with the newly created repository you will need to clone it locally via the VSCode command palette shortcut (Ctrl+Shift+P) type in ">git: clone" then pasting in the url copied from github in the previous step and clicking on "Clone from URL" in the dropdown box.
 
+![SSO](./media/repo19.jpg)
+![SSO](./media/repo20.jpg)
+![SSO](./media/repo21.jpg)
+
 > If you have issues cloning the repository due to SSO errors then within windows credential manager remove all Git credentials,  when cloning you will then be asked to re-authenticate with Github after which your repository will be cloned as expected.
 
 ![Github Clone](./media/repo8.jpg)
