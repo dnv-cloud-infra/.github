@@ -98,15 +98,17 @@ When your changes have been commited to the new branch in order to merge these c
 
 To create a pull request using the command pallete enter the command >GitHub Pull Requests: Create Pull Request
 
+> If the is your first time using this command you may need to login to your github account using the command palette (Ctrl+Shift+P) and entering the command >Github Pull Requests: Sign in to GitHub
+
 ![Create Pull Request](./media/repo14.jpg)
 
 Within the Create Pull Request pane ensure that the source branch is correct then add a description for the Pull Request then click on Create.
 
 ![Create Pull Request options](./media/repo15.jpg)
 
-When created the Pull Request is now in review mode where it's possible to add comments, labels, milestones, reviewers, assignees and close or merge the Pull Request.
+When created, the Pull Request is now in review mode where it's possible to add comments, labels, milestones, reviewers, assignees and close or merge the Pull Request.
 
-When the files have been reviewed you can then move to Merging the Pull Request,  in this example "Squash and Merge" is used which "Creates a linear history by condensing the source branch commits into a single new commit on the target branch" Otherwise you can close the pull request by clicking on "Close Pull Request"
+When the files have been reviewed you can then move to Merging the Pull Request,  in this example "Squash and Merge" is used which "Creates a linear history by condensing the source branch commits into a single new commit on the target branch" Otherwise you can close the pull request by clicking on "Close Pull Request" 
 
 ![Merge Pull Request](./media/repo16.jpg)
 
