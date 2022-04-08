@@ -15,7 +15,7 @@ This project has a repository named cloud-architecture which is used for all gen
 
 ### Creating a Repository
 
-> When creating a new repository it's currently not possible to have default branch settings configured at the project level which means that important important branch protection rules such as requiring pull requests before merging with the main branch need to be manually setup. These rules cannot be configured through vscode so until branch protection rules can be set at the project level repository creation will be done via the gui.
+> When creating a new repository it's currently not possible to have default branch settings configured at the project level which means that important important branch protection rules such as requiring pull requests before merging with the main branch need to be manually setup. These rules cannot be configured through vscode so until branch protection rules can be set at the project level repository creation will be done via the portal.
 
 To create a new repository, in the repositories tab, click on "New Repository"
 
@@ -25,7 +25,9 @@ To create a new repository, in the repositories tab, click on "New Repository"
 
 Enter the repository name and a description of the project.  
 
-Select Internal as the default option for repository visibility,  this will allow any member of the DNV enterprise to view the repository.  If you need to control who can see the repository select Private which allows you to select who can view the repository in the settings after it's created. Public repository creation is disabled for our project.
+Select Private as the option for repository visibility,  this will only allow members of the Cloud Architecture team to view the repository.  If you would like the repository to be visible to any member of the DNV Github Enterprise then select Internal. Public repository creation is disabled for our project.
+
+>Please note it's possible that Guest accounts in our Azure AD global tenant could also view repositories when the visibility is set to internal. 
 
 Select "Add a READMEfile" in order to write a more detailed description of the project later.  
 
