@@ -44,7 +44,7 @@ When created click on "Settings" then "Branches" then "Add rule"
 
 ![Branch Protection Rule](./media/repo3.jpg)
 
-For "Branch name pattern" use "branch-protection"
+For "Branch name pattern" use "main" to protect the main branch.
 
 select "Require a pull request before merging"
 
